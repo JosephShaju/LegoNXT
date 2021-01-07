@@ -10,6 +10,6 @@ The exoskeleton of the hand was intended to promote exercise of the user’s fin
 Movement of the fingers was controlled using strings connecting the exoskeleton to the motor. The design also incorporates a 3D printed pill dispenser. The design was coded using relevant grip and release functions and yielded successful test results. 
 The exoskeleton permitted unrestricted motion of the fingers. Despite the lack of support for the thumb, the design performed basic hand gestures to a desired efficiency.
 
-**Workflow**
+## Workflow
 
 ![image](https://user-images.githubusercontent.com/26580185/103919387-f696bb00-50dd-11eb-8e19-bc70596eb899.png)
