@@ -9,6 +9,6 @@ Built a Prosthetic ExoSkeleton using Lego NXT to address the needs of people suf
 The exoskeleton of the hand was intended to promote exercise of the user’s fingers allowing him/her to grip objects easily. It is also intended to be portable and easy to use. This design was implemented using cost effective materials. The fingers were constructed using parts from the Lego NXT Robot kit.
 Movement of the fingers was controlled using strings connecting the exoskeleton to the motor. The design also incorporates a 3D printed pill dispenser. The design was coded using relevant grip and release functions and yielded successful test results. 
 The exoskeleton permitted unrestricted motion of the fingers. Despite the lack of support for the thumb, the design performed basic hand gestures to a desired efficiency.
-
 **Workflow**
+
 ![image](https://user-images.githubusercontent.com/26580185/103919387-f696bb00-50dd-11eb-8e19-bc70596eb899.png)
